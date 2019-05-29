@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Christopher Powroznik's Ideas & Proposals
+bio:                'Fullstack Software Developer'
+description:        "The following is a website to keep track of proposals and ideas to share easily with collaborators"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://metroxe.github.io/Proposals
 
 # Jekyll
 permalink:          /:title/
